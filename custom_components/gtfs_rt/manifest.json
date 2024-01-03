@@ -1,10 +1,10 @@
 {
     "domain": "gtfs_rt",
     "name": "GTFS-Realtime",
-    "documentation": "https://github.com/zacs/ha-gtfs-rt",
+    "documentation": "https://github.com/nickcwilkins/ha-gtfs-rt",
     "dependencies": [],
-    "codeowners": ["@zacs"],
-    "version": "1.0.1",
+    "codeowners": ["@nickcwilkins"],
+    "version": "1.0.0",
     "requirements": [
         "gtfs-realtime-bindings==1.0.0"
     ]

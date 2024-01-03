@@ -1,0 +1,6 @@
+{
+  "mypy.runUsingActiveInterpreter": true,
+  "python.defaultInterpreterPath": "/srv/homeassistant/bin/python3",
+  // "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true
+}
